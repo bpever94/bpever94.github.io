@@ -1,11 +1,14 @@
 title: Luis Diego Alfaro # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist
+  Data Scientist | Industrial Engineer | Python / SQL
   <br><br>
-  Industrial Engineer
+  Currently seeking an entry-level position
+  in Data Science that will provide an opportunity to apply and
+  further develop these skills, while also laying a solid foundation for
+  specialization in Machine Learning and Artificial Intelligence.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/luis-diego-alfaro-00835b20b">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
