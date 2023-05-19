@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [SPC , quality prediction & process paramaters optimization for Roasting process ](/sample_page)
-<img src="project_1.png"/>
+<img src="project_1.png?raw=true"/>
 
 ---
 [Multistage Predictive Modelin System and Capability Analysis for Continuous Manufacturing  Process](/pdf/sample_presentation.pdf)
