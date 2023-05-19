@@ -16,12 +16,8 @@
 <img src="images/Project5.png"/>
 
 ---
-[SPC Dashboard for Quality Control](http://example.com/)
+[SPC Dashboard for Quality Control](http://127.0.0.1:8050/)
 <img src="images/Project4.png"/>
 
 ---
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
