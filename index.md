@@ -20,6 +20,7 @@
 
 ---
 [SPC Dashboard for Quality Control](http://127.0.0.1:8050/)
+##### An interactive dashboard using Plotly Dash for real-time monitoring and analysis of manufacturing process variables, highlighting effective quality control and predictive maintenance strategies.
 <img src="images/Project4.png"/>
 
 ---
