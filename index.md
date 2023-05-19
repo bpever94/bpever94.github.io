@@ -1,6 +1,6 @@
 ## Portfolio
 #### This portfolio provides a comprehensive view of my abilities to combine the principles of Industrial Engineering and  Data Science techniques to design, analyze, and optimize systems, delivering valuable insights and interesting outcomes.
-The projects presented in this portfolio use Python libraries such Pandas, Numpy, Matplotlib, Seaborn and Sklearn. My main objective was to create Data Science projects relevant to my field of expertise. 
+#### The projects presented in this portfolio use Python libraries such Pandas, Numpy, Matplotlib, Seaborn and Sklearn. My main objective was to create Data Science projects relevant to my field of expertise. 
 ---
 
 ### Main projects
