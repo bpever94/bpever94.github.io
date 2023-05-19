@@ -1,5 +1,5 @@
 ## Portfolio
-
+#### This portfolio provides a comprehensive view of my abilities to combine the principles of Industrial Engineering and  Data Science techniques to design, analyze, and optimize csystems, delivering valuable insights and interesting outcomes.
 ---
 
 ### Main projects
