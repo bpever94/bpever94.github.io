@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SPC , quality prediction & process paramaters optimization for Roasting process ](/sample_page)
+<img src="project_1.png/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Multistage Predictive Modelin System and Capability Analysis for Continuous Manufacturing  Process](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
