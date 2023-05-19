@@ -11,6 +11,7 @@
 
 ---
 [Multistage Predictive Modelin System and Capability Analysis for Continuous Manufacturing  Process](/pdf/sample_presentation.pdf)
+##### In this project we use machine learning to optimize a two-stage manufacturing process, employing a combination of PCA, regression techniques, and ensemble methods. The models successfully predicted quality output metrics.
 <img src="images/Project_3.png"/>
 
 ---
