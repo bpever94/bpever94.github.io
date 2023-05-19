@@ -2,18 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Main projects
 
 [SPC , quality prediction & process paramaters optimization for Roasting process ](/sample_page)
 <img src="images/project_1.png"/>
 
 ---
 [Multistage Predictive Modelin System and Capability Analysis for Continuous Manufacturing  Process](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project_3.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Term Deposit Suscription & Identifiying key factors affecting Costumers Desicions](http://example.com/)
+<img src="images/Project5.png"/>
+
+---
+[SPC Dashboard for Quality Control](http://example.com/)
+<img src="images/Project4.png"/>
 
 ---
 
