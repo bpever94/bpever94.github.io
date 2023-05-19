@@ -6,6 +6,7 @@
 ### Main projects
 
 [SPC , quality prediction & process paramaters optimization for Roasting process ](/sample_page)
+##### This project combines Six Sigma and Data Science to optimize manufacturing processes. It involves machine learning and Design of Experiments, achieving significant process capability improvements
 <img src="images/project_1.png"/>
 
 ---
