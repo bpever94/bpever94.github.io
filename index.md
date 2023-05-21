@@ -5,12 +5,12 @@
 
 ### Main projects
 
-[SPC , quality prediction & process paramaters optimization for Roasting process ](/sample_page)
+[SPC , quality prediction & process paramaters optimization for Roasting process ](https://app.datacamp.com/workspace/w/40309d9f-c83e-4aec-879e-e0d283dee14f)
 ##### This project combines Six Sigma and Data Science to optimize manufacturing processes. It involves machine learning and Design of Experiments, achieving significant process capability improvements
 <img src="images/project_1.png"/>
 
 ---
-[Multistage Predictive Modelin System and Capability Analysis for Continuous Manufacturing  Process](/pdf/sample_presentation.pdf)
+[Multistage Predictive Modelin System and Capability Analysis for Continuous Manufacturing  Process](https://app.datacamp.com/workspace/w/0cf2b9e7-d78a-498f-b1a8-d96be0822ac3)
 ##### In this project we use machine learning to optimize a two-stage manufacturing process, employing a combination of PCA, regression techniques, and ensemble methods. The models successfully predicted quality output metrics.
 <img src="images/Project_3.png"/>
 
