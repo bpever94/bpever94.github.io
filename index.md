@@ -16,6 +16,7 @@
 
 ---
 [Predicting Term Deposit Suscription & Identifiying key factors affecting Costumers Desicions](http://example.com/)
+##### Leveraging machine learning, we improved targeting potential bank depositors by handling imbalanced data and optimizing predictive models. The resulting strategies demonstrated the power of data-driven decision making.
 <img src="images/Project5.png"/>
 
 ---
