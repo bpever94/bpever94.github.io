@@ -15,7 +15,7 @@
 <img src="images/Project_3.png"/>
 
 ---
-[Predicting Term Deposit Suscription & Identifiying key factors affecting Costumers Desicions](http://example.com/)
+[Predicting Term Deposit Suscription & Identifiying key factors affecting Costumers Desicions](https://app.datacamp.com/workspace/w/38b27eaa-85b8-4db7-913b-954cc4af6658)
 ##### Leveraging machine learning, we improved targeting potential bank depositors by handling imbalanced data and optimizing predictive models. The resulting strategies demonstrated the power of data-driven decision making.
 <img src="images/Project5.png"/>
 
